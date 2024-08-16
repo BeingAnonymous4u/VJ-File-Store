@@ -410,13 +410,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/+bEarHRzuylxjMTk1')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('⁉️ 𝖧𝖾𝗅𝗉', callback_data='help'),
+            InlineKeyboardButton('📜 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
+            InlineKeyboardButton('🤖 𝖢𝗋𝖾𝖺𝗍𝖾 𝖸𝗈𝗎𝗋 𝖢𝗅𝗈𝗇𝖾', callback_data='clone')
             ],[
-            InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('🔍 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔒 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
