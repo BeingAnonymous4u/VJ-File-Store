@@ -54,13 +54,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/+bEarHRzuylxjMTk1')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+bEarHRzuylxjMTk1')
             ],[
-            InlineKeyboardButton('⁉️ 𝖧𝖾𝗅𝗉', callback_data='help'),
-            InlineKeyboardButton('📜 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
+            InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/+hqgL_Dok0Us3ODM1'),
-            InlineKeyboardButton('🔒 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
@@ -408,15 +408,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/+bEarHRzuylxjMTk1')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+bEarHRzuylxjMTk1')
             ],[
-            InlineKeyboardButton('⁉️ 𝖧𝖾𝗅𝗉', callback_data='help'),
-            InlineKeyboardButton('📜 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
+            InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
+            InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🤖 𝖢𝗋𝖾𝖺𝗍𝖾 𝖸𝗈𝗎𝗋 𝖢𝗅𝗈𝗇𝖾', callback_data='clone')
+            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ᴍʏ ᴄʟᴏɴᴇ', callback_data='clone')
             ],[
-            InlineKeyboardButton('🔍 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/+hqgL_Dok0Us3ODM1'),
-            InlineKeyboardButton('🔒 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
