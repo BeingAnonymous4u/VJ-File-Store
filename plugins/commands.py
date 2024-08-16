@@ -57,11 +57,10 @@ async def start(client, message):
             InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/+bEarHRzuylxjMTk1')
             ],[
             InlineKeyboardButton('⁉️ 𝖧𝖾𝗅𝗉', callback_data='help'),
-            InlineKeyboardButton('📜 𝖠𝖻𝗈𝗎𝗍', callback_data='about'),
-            InlineKeyboardButton('🔒 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
+            InlineKeyboardButton('📜 𝖠𝖻𝗈𝗎𝗍', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🔍 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔒 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
         ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
