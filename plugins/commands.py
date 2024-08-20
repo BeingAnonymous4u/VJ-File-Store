@@ -54,12 +54,12 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+bEarHRzuylxjMTk1')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+BEm-NAZrlmRmMGVl')
             ],[
             InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+BEm-NAZrlmRmMGVl'),
             InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         if CLONE_MODE == True:
@@ -408,14 +408,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+bEarHRzuylxjMTk1')
+            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+BEm-NAZrlmRmMGVl')
             ],[
             InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ᴍʏ ᴄʟᴏɴᴇ', callback_data='clone')
-            ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+hqgL_Dok0Us3ODM1'),
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+BEm-NAZrlmRmMGVl'),
             InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         
