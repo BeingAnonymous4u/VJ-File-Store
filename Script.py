@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},
+    START_TXT = """<b>Hᴇʟʟᴏ {}
     
 ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴠɪᴅᴇᴏs ᴀɴᴅ ᴅᴏᴄᴜᴍᴇɴᴛs ᴀɴᴅ ɪᴛ ᴄᴀɴ ᴀᴄᴄᴇss ʙʏ sᴘᴇᴄɪᴀʟ ʟɪɴᴋs ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ꜰʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ 😍</b>"""
 
@@ -88,7 +88,7 @@ First Send /clone command then follow below steps.
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>✨ <u>Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ </u>☺️
+    HELP_TXT = """<b>✨ <u>Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ</u> ☺️
 
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
