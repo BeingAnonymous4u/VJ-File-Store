@@ -59,7 +59,7 @@ async def start(client, message):
             InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+BEm-NAZrlmRmMGVl'),
+            InlineKeyboardButton('📣 sᴜᴘᴘᴏʀᴛ 📣', url='https://t.me/+BEm-NAZrlmRmMGVl'),
             InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         if CLONE_MODE == True:
@@ -413,7 +413,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⁉️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('📜 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+BEm-NAZrlmRmMGVl'),
+            InlineKeyboardButton('📣 sᴜᴘᴘᴏʀᴛ 📣', url='https://t.me/+BEm-NAZrlmRmMGVl'),
             InlineKeyboardButton('🔒 ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         
