@@ -39,6 +39,7 @@ def get_media_from_message(message: "Message") -> Any:
         "video",
         "voice",
         "video_note",
+        "webpage",
     )
     for attr in media_types:
         media = getattr(message, attr, None)
