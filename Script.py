@@ -52,9 +52,9 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 <i>✰ ᴍʏ ᴏᴡɴᴇʀ:</i> <a href=https://t.me/Rolexhxd>This Person</a>
 
-<i>✰ sᴜᴘᴘᴏʀᴛ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a>
+<i>✰ sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a>
 
-<i>✰ ᴜᴘᴅᴀᴛᴇ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a></b>
+<i>✰ ᴜᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
