@@ -44,17 +44,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b><u>✨ ᴀʙᴏᴜᴛ ᴍᴇ</u>
-    
-ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
-
-<i>✰ ᴍʏ ɴᴀᴍᴇ:</i> {}
-
-<i>✰ ᴍʏ ᴏᴡɴᴇʀ:</i> <a href=https://t.me/Rolexhxd>This Person</a>
-
-<i>✰ sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a>
-
-<i>✰ ᴜᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ:</i> <a href=https://t.me/+OV1c9JfMDn80NjQ1>Click Here</a></b>
+    ABOUT_TXT = """<b>○ My Name : {}\n○ Creator : <a href='https://t.me/AllFilesRobot'>This Person</a>\n○ Language : <code>Python3</code>\n○ Library : <a href='https://docs.pyrogram.org/'>Pyrogram</a>\n○ Source Code : <a href='https://t.me/AllFilesRobot'>Click here</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
