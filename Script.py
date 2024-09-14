@@ -13,9 +13,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b><a href=https://t.me/+234Q4gdwd9BhNDU1>📝Fɪʟᴇ Nᴀᴍᴇ : {file_name}</a>
 
-sɪᴢᴇ 📀: {file_size}
+⚙️ sɪᴢᴇ : {file_size}
 </b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
