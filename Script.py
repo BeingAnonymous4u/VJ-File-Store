@@ -78,20 +78,21 @@ First Send /clone command then follow below steps.
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    HELP_TXT = """<b>💢 <u>Hᴏᴡ Tᴏ Usᴇ Tʜɪs Bᴏᴛ</u> 
+    HELP_TXT = """<b><u>🖍️ HELP MENU</u>
 
- /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
+</b><b><i>ɪ ᴀᴍ ᴀ ᴘᴇʀᴍᴇɴᴀɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ sᴛᴏʀᴇ ғɪʟᴇs ғʀᴏᴍ ʏᴏᴜʀ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜᴏᴜᴛ ɪ ᴀᴍ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇʀᴇ. ᴇɪᴛʜᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪs ᴘʀɪᴠᴀᴛᴇ ғɪʀsᴛ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇʀᴇ. ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ sᴛᴏʀᴇ ʏᴏᴜʀ ғɪʟᴇs ʙʏ ᴜsɪɴɢ ʙᴇʟᴏᴡ ᴍᴇɴᴛɪᴏɴᴇᴅ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss sᴛᴏʀᴇᴅ ғɪʟᴇs ʙʏ ᴜsɪɴɢ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ɢɪᴠᴇɴ ʙʏ ᴍᴇ.</i>
 
- /batch - ᴛᴏ sᴛᴏʀᴇ ᴍᴜᴛɪᴘʟᴇ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴀ ᴄʜᴀɴɴᴇʟ. ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch <code>https://t.me/firstlink https://t.me/lastlink</code>
+</b><b><u>📚 AVAILABLE COMMAND:</u>
 
- /base_site - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ᴅᴏᴍᴀɪɴ 
+➛ </b><b>/start</b><b> - ᴄʜᴇᴄᴋ ɪ ᴀᴍ ᴀʟɪᴠᴇ.
+➛ </b><b>/link</b><b> - ᴛᴏ sᴛᴏʀᴇ ᴀ sɪɴɢʟᴇ ᴍᴇssᴀɢᴇ ᴏʀ ғɪʟᴇ.
+➛ </b><b>/batch</b><b> - ᴛᴏ sᴛᴏʀᴇ ᴍᴜᴛɪᴘʟᴇ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴀ ᴄʜᴀɴɴᴇʟ.
+➛ </b><b>/clone</b><b> - ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ɪᴅᴇɴᴛɪᴄᴀʟ ᴄʟᴏɴᴇ ʙᴏᴛ ᴏғ ᴍᴇ.
+➛ </b><b> /base_site - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴛ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ʟɪɴᴋ ᴅᴏᴍᴀɪɴ 
 ᴇx - /base_site ʏᴏᴜʀᴅᴏᴍᴀɪɴ.ᴄᴏᴍ
-
- /api - sᴇᴛ ʏᴏᴜʀ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴀᴘɪ 
+➛ /api - sᴇᴛ ʏᴏᴜʀ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴀᴘɪ 
 ᴇx - /api ʙᴀᴏᴡɢᴡᴋʟᴀᴀʙᴀᴋʟ
-
- /broadcast - ʀᴇᴘʟʏ ᴛᴏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ (ʙᴏᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</b>"""
+➛ </b><b>/broadcast</b><b> - ʀᴇᴘʟʏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ʏᴏᴜʀ ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇs, ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴛᴏ ᴜsᴇʀs  (ᴏᴡɴᴇʀ ᴏɴʟʏ).</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
