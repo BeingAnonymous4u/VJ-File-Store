@@ -4,9 +4,11 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ <spoiler>{}</spoiler>
+    START_TXT = """<b><i>Hello {} ✨
     
-<blockquote>ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴠɪᴅᴇᴏs ᴀɴᴅ ᴅᴏᴄᴜᴍᴇɴᴛs ᴀɴᴅ ɪᴛ ᴄᴀɴ ᴀᴄᴄᴇss ʙʏ sᴘᴇᴄɪᴀʟ ʟɪɴᴋs ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ꜰʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ 😍</blockquote></b>"""
+I am a permenant file store bot and users can access stored messages by using a shareable link given by me
+
+To know more click help button</i></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
