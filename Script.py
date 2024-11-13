@@ -15,9 +15,7 @@ To know more click help button</i></b>"""
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b><a href=https://t.me/+234Q4gdwd9BhNDU1>📝Fɪʟᴇ Nᴀᴍᴇ : {file_name}</a>
-
-⚙️ sɪᴢᴇ : {file_size}
+    CAPTION = """<b><a href=https://t.me/+234Q4gdwd9BhNDU1>🎬 {file_name}</a> 🎞️ {file_size}
 </b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
